@@ -1,0 +1,21 @@
+{
+  "name": "telegram-bot-bydycoders",
+  "version": "1.0.0",
+  "description": "A simple bot telegram bydycoders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.12",
+    "form-data": "^4.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "praytimes": "^0.0.5",
+    "qrcode": "^1.5.3",
+    "salahtimes": "^1.1.15",
+    "telegraf": "^4.16.3",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
+  }
+}
